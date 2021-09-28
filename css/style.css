@@ -29,7 +29,7 @@ body {
 }
 
 
-/* ++ main ++ */
+/* ++ main button ++ */
 
 .button{
     width: 700px;
@@ -71,3 +71,14 @@ body {
     margin-top: 4px;
     margin-bottom: 20px;
 }
+
+
+/* ++ main testi ++ */
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 40px;
+    padding-top: 30px;
+    color: rgb(83, 83, 83);
+}
+
