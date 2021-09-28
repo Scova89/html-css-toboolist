@@ -63,7 +63,7 @@ body {
 
 .container-main{
     width: 700px;
-    height: 700px;
+    height: 530px;
     background-color: rgb(255, 255, 255);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -117,3 +117,14 @@ h2 {
 #mobile {
     background-color: rgb(206, 171, 15);
     padding: 5px;
+}
+
+#website {
+    background-color: rgb(230, 84, 193);
+    padding: 5px;
+}
+
+#sales {
+    background-color: rgb(255, 225, 55);
+    padding: 5px;
+}
