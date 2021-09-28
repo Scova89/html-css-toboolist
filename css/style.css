@@ -1,13 +1,29 @@
 * {
     margin: 0;
     padding: 0;
-    box box-sizing: border-box;
+    box-sizing: border-box;
 }
+/* ++ colore dello sfondo ++ */
 
 body {
     background-color: #f6f8f9;
 }
 
-.container {
-    width: 60%;
+
+/* ++ head ++ */
+
+.container-head {
+    width: 100%;
+    background-color: white;   
+}
+
+#logo{
+    margin: 10px;
+    margin-right: 2px;
+}
+
+.container-head h1 {
+    display: inline;
+    vertical-align: 25px;
+    font-family: 'Russo One', sans-serif;  
 }
