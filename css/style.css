@@ -27,3 +27,12 @@ body {
     vertical-align: 25px;
     font-family: 'Russo One', sans-serif;  
 }
+
+
+/* ++ main ++ */
+
+.container-main{
+    width: 80%;
+    background-color: white;
+    border-radius: 10px;
+}
